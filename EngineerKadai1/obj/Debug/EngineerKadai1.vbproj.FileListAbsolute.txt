@@ -1,0 +1,22 @@
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\bin\Debug\EngineerKadai1.exe.config
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\bin\Debug\EngineerKadai1.exe
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\bin\Debug\EngineerKadai1.pdb
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\bin\Debug\EngineerKadai1.xml
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.vbprojResolveAssemblyReference.cache
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.Resources.resources
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.vbproj.GenerateResource.Cache
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.exe
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.xml
+c:\users\localadmin\documents\visual studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.pdb
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1\EngineerKadai1\obj\Debug\EngineerKadai1.frmKadai.resources
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\bin\Debug\EngineerKadai1.exe.config
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.exe
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.xml
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.pdb
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\bin\Debug\EngineerKadai1.exe
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\bin\Debug\EngineerKadai1.pdb
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\bin\Debug\EngineerKadai1.xml
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.vbprojResolveAssemblyReference.cache
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.frmKadai.resources
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.Resources.resources
+C:\Users\localadmin\Documents\Visual Studio 2015\Projects\EngineerKadai1 - コピー\EngineerKadai1\obj\Debug\EngineerKadai1.vbproj.GenerateResource.Cache

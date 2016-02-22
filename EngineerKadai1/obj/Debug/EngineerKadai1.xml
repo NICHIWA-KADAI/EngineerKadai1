@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EngineerKadai1
+</name>
+</assembly>
+<members>
+<member name="F:EngineerKadai1.frmKadai.CON_CSV_OSAKA">
+ <summary>
+ クラス定数
+ </summary>
+</member>
+<member name="F:EngineerKadai1.frmKadai.objCsvData">
+ <summary>
+ クラス変数
+ </summary>
+</member>
+<member name="M:EngineerKadai1.frmKadai.frmKadai_Load(System.Object,System.EventArgs)">
+ <summary>
+ フォームロード
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:EngineerKadai1.frmKadai.cmbOpen_Click(System.Object,System.EventArgs)">
+ <summary>
+ 実行ボタン
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:EngineerKadai1.frmKadai.GetData">
+ <summary>
+ CSVファイルデータ取得
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.GetOsakaCSV">
+ <summary>
+ 大阪CSVファイルデータ取得
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.GetTokyoCSV">
+ <summary>
+ 東京CSVファイルデータ取得
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.GetCsvData">
+ <summary>
+ CSVデータ取得関数
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.OpenFile(System.String@)">
+ <summary>
+ ファイルオープン関数
+ </summary>
+ <param name="strFileName"></param>
+ <returns>True:正常 False:異常</returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.CloseFile">
+ <summary>
+ ファイルクローズ関数
+ </summary>
+ <returns>True:正常 False:異常</returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.SetGridView">
+ <summary>
+ グリッドビュー表示関数
+ </summary>
+ <returns>True:正常 False:異常</returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.ArrayCount(System.DateTime[]@)">
+ <summary>
+ 配列数カウント
+ </summary>
+ <param name="dttDate"></param>
+ <returns></returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.DataCheck(System.String[])">
+ <summary>
+ CSVファイルデータチェック
+ </summary>
+ <param name="strTemData"></param>
+ <returns></returns>
+</member>
+<member name="M:EngineerKadai1.frmKadai.cmbExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ 終了ボタン
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:EngineerKadai1.My.Resources.Resources">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.MSG1001">
+<summary>
+  システムエラーが発生しています。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.MSG2001">
+<summary>
+  CSVファイルが存在しません。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.MSG2002">
+<summary>
+  CSVデータが正しくありません に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.MSG3001">
+<summary>
+  終了しますか？ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.MSG4001">
+<summary>
+  表示しました。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:EngineerKadai1.My.Resources.Resources.title">
+<summary>
+  Kadai1 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+</members>
+</doc>
